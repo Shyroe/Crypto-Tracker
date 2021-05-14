@@ -9,9 +9,9 @@ yarn add
 yarn dev
 ```
 
-```bash
+
 [Visit Demo](https://crypto-tracker-brown.vercel.app/)
-```
+
 
 ## What are the features?
 

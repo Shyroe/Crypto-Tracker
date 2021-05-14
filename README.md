@@ -10,7 +10,7 @@ yarn dev
 ```
 
 ```bash
-[**Visit Demo**](https://crypto-tracker-brown.vercel.app/)
+[Visit Demo](https://crypto-tracker-brown.vercel.app/)
 ```
 
 ## What are the features?

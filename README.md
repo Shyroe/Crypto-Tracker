@@ -1,6 +1,10 @@
 # Crypto Tracker
 
 **Coded with TS & JS, Next.js, Redux, Material-UI and third-party API**
+
+[Visit Demo](https://crypto-tracker-brown.vercel.app/)
+
+
 ## How to start it?
 
 ```bash
@@ -8,10 +12,6 @@ yarn add
 # then
 yarn dev
 ```
-
-
-[Visit Demo](https://crypto-tracker-brown.vercel.app/)
-
 
 ## What are the features?
 

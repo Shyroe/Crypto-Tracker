@@ -9,6 +9,10 @@ yarn add
 yarn dev
 ```
 
+```bash
+[**Visit Demo**](https://crypto-tracker-brown.vercel.app/)
+```
+
 ## What are the features?
 
 * Consider this project as a boilerplate for your next combination of TypeScript/JavaScript/Next.js/Redux/MaterialUI project.

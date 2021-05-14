@@ -21,3 +21,6 @@ yarn dev
 * Typescript for tsx styling and native functions
 
 ## ScreenShots
+![main page](https://user-images.githubusercontent.com/64346646/118261423-c6668b00-b4c8-11eb-962e-ff7922ffcf1a.png)
+![single coin](https://user-images.githubusercontent.com/64346646/118261441-ccf50280-b4c8-11eb-9b73-9eed9633b144.png)
+![skeleton loading](https://user-images.githubusercontent.com/64346646/118261451-cfeff300-b4c8-11eb-9d5e-58b4b8bf8110.png)

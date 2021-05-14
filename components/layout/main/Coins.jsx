@@ -13,7 +13,7 @@ import { dateValidation, numberSeparator } from '../../utils/validator';
 import LoadingScreen from '../navigation/LoadingScreen';
 import { useRouter } from 'next/router';
 
-const useStyles = makeStyles((theme: Theme) =>
+const useStyles = makeStyles((theme) =>
   createStyles({
     table: {
       width: '100%',
@@ -40,6 +40,7 @@ export default function Coins() {
   const { coins, loading } = states;
   const classes = useStyles();
   const router = useRouter();
+ 
 
   return (
     <TableContainer component={Paper}>

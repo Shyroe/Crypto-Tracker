@@ -19,7 +19,7 @@ import InfoIcon from '@material-ui/icons/Info';
 import ScoreIcon from '@material-ui/icons/Score';
 import Skeleton from '@material-ui/lab/Skeleton';
 
-const useStyles = makeStyles((theme: Theme) =>
+const useStyles = makeStyles((theme) =>
   createStyles({
     root: {
       paddingTop: theme.spacing(10),
@@ -50,11 +50,13 @@ const useStyles = makeStyles((theme: Theme) =>
   })
 );
 
+
 export default function Coin() {
   const states = useAppSelector((state) => state.singleCoin);
   const { coin, loading } = states;
   const classes = useStyles();
 
+ 
   return (
     <>
       <Container className={classes.root}>
